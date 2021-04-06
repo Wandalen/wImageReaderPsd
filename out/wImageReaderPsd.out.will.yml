@@ -1470,6 +1470,4 @@ module:
       ../.im.will.yml:
         hash: 5ea6de53c453c2c2c974d006703fd404
         size: 4707
-      wImageReaderPsd.out.will.yml:
-        hash: b9c83d4f07e331ce088d95fa085a0895
-        size: 37419
+      wImageReaderPsd.out.will.yml: *ref_0
